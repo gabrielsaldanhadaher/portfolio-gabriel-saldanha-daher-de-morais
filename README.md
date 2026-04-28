@@ -38,17 +38,19 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Pulseira Inteligente** | Scripts SQL e utilização de IA para modelagem do banco de dados para a pulseira inteligente. | [Ver Projeto](./projeto-banco-dados/) |
+| **Sistema de Pulseira Inteligente** | Scripts SQL e utilização de IA para modelagem do banco de dados para a pulseira inteligente. | [Ver Projeto](https://github.com/gabrielsaldanhadaher/portfolio_gabrielsaldanhadaher/tree/main/banco_de_dados) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Desenvolvimento de aplicação para orçamento em IA no bubble.io ** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://gabrieldaherm.bubbleapps.io/version-test?debug_mode=true) |
- 
+| **Desenvolvimento de aplicação para orçamento em IA no bubble.io ** | Aplicação de orçamento | [Ver Projeto](https://gabrieldaherm.bubbleapps.io/version-test?debug_mode=true) |
+|**Sistema de busca de informações de arquivos ou imagens**|O sistema busca informações de onde o arquivo ou a imagem veio| [Ver Projeto](https://github.com/gabrielsaldanhadaher/portfolio_gabrielsaldanhadaher/tree/main/Engenharia-de-Prompt-de-IA-main/site_busca_ia) |
+|**Músicas Suno**|Fiz 4 músicas realizadas com o SUNO| [Ver Projeto](https://github.com/gabrielsaldanhadaher/portfolio_gabrielsaldanhadaher/tree/main/Engenharia-de-Prompt-de-IA-main/musica_sunoIA) |
 ---
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto 
+- `/Engenharia de Prompt de IA/`: Pasta contendo o código-fonte, documentação e o README específico do projeto.
+- - `/Banco de Dados/`: Pasta contendo o código-fonte, documentação e o README específico do projeto .
