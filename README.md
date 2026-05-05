@@ -49,7 +49,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 |**Machine Learning**|Machine Learning Realizado em sala para comparativo de imagens|[Ver Projeto](https://teachablemachine.withgoogle.com/models/dfvo6NXps/)|
 |**A corrida do prompt**|Aprimorando Prompts para chegar em um objetivo desejado|[Ver Projeto](https://github.com/gabrielsaldanhadaher/portfolio_gabrielsaldanhadaher/tree/main/Engenharia-de-Prompt-de-IA-main/A%20Corrida%20do%20Prompt)|
 |**Engenharia Reversa**|Desenvolvimento de um Sistema que busca informações de um arquivo ou imagem (protótipo)|[Ver Projeto](https://github.com/gabrielsaldanhadaher/portfolio_gabrielsaldanhadaher/tree/main/Engenharia-de-Prompt-de-IA-main/Engenharia%20Reversa)|
-|**Desenvolvimento de App de Videoconferência com Manus AI e Jitsi**|Desenvolvimento de um sistema quer se integra ao jitsi meet|[Ver Projeto](https://manus.im/app-preview/CTXcvxDrBepGCXwPNHGx6x?sessionId=pHPS89ceJ44Q9xXnAA6lHY)|
+|**Desenvolvimento de App de Videoconferência com Manus AI e Jitsi**|Desenvolvimento de um sistema quer se integra ao jitsi meet|[Ver Projeto](https://github.com/gabrielsaldanhadaher/portfolio-gabriel-saldanha-daher-de-morais/tree/main/Engenharia-de-Prompt-de-IA-main/projeto-desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e-jitsi)|
 #### 💻 Back-End
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
