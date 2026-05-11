@@ -20,7 +20,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
 | 01 | [Além da Vidraça] | [Lo-fi / Hip Hop Calmo] | [Arquivo MP3](https://github.com/gabrielsaldanhadaher/portfolio-gabriel-saldanha-daher-de-morais/blob/main/Engenharia-de-Prompt-de-IA-main/musica_sunoIA/Al%C3%A9m%20da%20Vidra%C3%A7a.mp3.mpeg) |
-| 02 | [Estilo Mundo Cão] | [Estilo] | [Arquivo MP3](https://github.com/gabrielsaldanhadaher/portfolio-gabriel-saldanha-daher-de-morais/blob/main/Engenharia-de-Prompt-de-IA-main/musica_sunoIA/Estilo%20Mundo%20C%C3%A3o.mp3.mpeg) |
+| 02 | [Estilo Mundo Cão] | [Reggae / Rock] | [Arquivo MP3](https://github.com/gabrielsaldanhadaher/portfolio-gabriel-saldanha-daher-de-morais/blob/main/Engenharia-de-Prompt-de-IA-main/musica_sunoIA/Estilo%20Mundo%20C%C3%A3o.mp3.mpeg) |
 | 03 | [Lições de Algum Lugar] | [Voz e Violão (Acústico)] | [Arquivo MP3](https://github.com/gabrielsaldanhadaher/portfolio-gabriel-saldanha-daher-de-morais/blob/main/Engenharia-de-Prompt-de-IA-main/musica_sunoIA/Li%C3%A7%C3%B5es%20de%20Algum%20Lugar.mp3.mpeg) |
 | 04 | [Mar Aberto, Mente Livre] | [Reggae / Rock] | [Arquivo MP3](https://github.com/gabrielsaldanhadaher/portfolio-gabriel-saldanha-daher-de-morais/blob/main/Engenharia-de-Prompt-de-IA-main/musica_sunoIA/Mar%20Aberto%2C%20Mente%20Livre.mp3) |
 | 05 | [O Peso e a Lição] | [Nu Metal / Hardcore] | [Arquivo MP3](https://github.com/gabrielsaldanhadaher/portfolio-gabriel-saldanha-daher-de-morais/blob/main/Engenharia-de-Prompt-de-IA-main/musica_sunoIA/O%20Peso%20e%20a%20Li%C3%A7%C3%A3o.mp3.mpeg) |
