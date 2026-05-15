@@ -12,7 +12,26 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend, Análise de Dados e Engenharia de Software.
+A Base na UNICID e a Escolha por ADS
+Atualmente, encontro-me em um momento crucial da minha formação acadêmica, cursando o 2º período de Análise e Desenvolvimento de Sistemas na UNICID. A decisão por este curso não foi apenas uma escolha de carreira, mas a formalização de uma paixão antiga pela resolução de problemas complexos através da tecnologia. No ambiente acadêmico, tenho tido a oportunidade de solidificar conceitos fundamentais que vão desde a lógica de programação pura até a compreensão profunda da engenharia de software, o que me permite olhar para um sistema não apenas como um conjunto de códigos, mas como uma solução arquitetada para impactar a vida das pessoas.
+
+O Domínio Técnico: Python e a Engenharia de Software
+Dentro do vasto universo da computação, direcionei meu foco para o Desenvolvimento Backend. Acredito que o "motor" de qualquer aplicação é onde o verdadeiro desafio reside. Nesse contexto, o Python tornou-se minha principal ferramenta de trabalho. Minha atuação com esta linguagem vai muito além dos scripts básicos; participo ativamente de grandes projetos acadêmicos onde o Python é o protagonista.
+
+Nesses projetos, busco aplicar as melhores práticas de desenvolvimento, explorando bibliotecas voltadas para análise de dados e automação de processos. A versatilidade do Python me permite transitar entre a criação de APIs robustas e a manipulação de grandes volumes de dados, sempre com o foco em escrever um código limpo, legível e altamente eficiente. Para mim, Python não é apenas uma linguagem, mas um ecossistema que potencializa a criatividade do desenvolvedor.
+
+Bancos de Dados e a Inteligência dos Dados
+Complementando meu perfil em Backend, possuo um foco rigoroso em Banco de Dados. Compreendo que a persistência e a integridade da informação são o coração de qualquer software de qualidade. Tenho me aprofundado em modelagem relacional, normalização de dados e otimização de queries, garantindo que o fluxo de informação entre o servidor e o armazenamento seja o mais performático possível.
+
+Minha visão sobre a Análise de Dados é integrada: não basta coletar a informação; é preciso estruturá-la de forma que ela se transforme em conhecimento estratégico. Essa intersecção entre a Engenharia de Software e a Ciência de Dados é onde pretendo construir meu diferencial competitivo, unindo a capacidade de construir sistemas com a habilidade de interpretar o que esses sistemas estão nos dizendo.
+
+Filosofia de Trabalho: Diversão e Propósito
+Existe uma frase que carrego comigo e que define minha postura diante de cada novo desafio: "Quando se trabalha com o que gosta, você se diverte". Essa não é apenas uma visão romântica sobre a profissão, mas uma diretriz prática. O mercado de tecnologia é exigente, as noites de estudo são longas e os bugs são constantes, mas quando há paixão pelo que se faz, cada erro encontrado se torna um aprendizado e cada projeto concluído é uma vitória pessoal.
+
+Sou um eterno apaixonado por conhecimento. A área de TI exige uma atualização constante, e essa "sede" de aprender é o que me move. Seja explorando uma nova biblioteca de Engenharia de Software, entendendo uma nova metodologia ágil ou otimizando um algoritmo de busca, vejo cada linha de código como uma oportunidade de evolução.
+
+Visão de Futuro
+Meu objetivo é continuar evoluindo como um profissional que não apenas escreve código, mas que pensa o software de forma holística. Quero contribuir para projetos que desafiem meu intelecto e que exijam soluções inovadoras em Backend e Engenharia de Software. Com a base sólida que estou construindo na UNICID e a experiência prática nos projetos em Python, estou pronto para transformar desafios técnicos em soluções eficientes, sempre mantendo o entusiasmo e a leveza de quem encontrou na tecnologia sua verdadeira vocação.
  
 * **Habilidades Técnicas:** Python, JavaScript.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
